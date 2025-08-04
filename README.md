@@ -11,3 +11,11 @@
 - create BrowserRouter > Routes > Route =/ Body > RouteChildren
 - Create an Outlet in your Body component
 - create a footer
+- Create a login page
+
+Body
+    NavBar
+    Route=/ => Feed
+    Route=/login => Login
+    Route=/connections => Connections
+    Router=/profile => Profile
